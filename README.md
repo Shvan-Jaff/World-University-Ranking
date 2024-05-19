@@ -20,3 +20,36 @@ The second supplementary dataset contains information about public and private d
 ### 2- Heshwan Adnan
 ### 3- Dond Kawa
 ### 4- Amanj Salih
+
+
+
+# General Exploration and Summary Statistics:
+
+#### Distribution Analysis:
+
+What is the distribution of university rankings? Are they evenly spread or clustered?
+How does the number of students vary across universities? What are the average, minimum, and maximum values?
+Visualize the distributions of overall scores, teaching scores, and research scores. Are there any noticeable patterns or outliers?
+Correlation Analysis:
+
+Is there a relationship between the number of students and the overall score of a university?
+Does the student-to-staff ratio correlate with teaching scores?
+Calculate and visualize the correlation matrix for all numerical variables. Are there any strong positive or negative correlations?
+Focused Questions and Comparisons:
+
+#### Top Performers:
+
+Which are the top 10 universities overall? How do they compare in terms of different score categories?
+Identify the universities with the highest international student percentages. What are their locations?
+Gender Diversity:
+
+What is the average female-to-male ratio across all universities?
+Are there any universities with a significantly higher or lower ratio than the average?
+Research Impact:
+
+Which universities have the highest citation scores? What are their research strengths?
+Is there a relationship between research scores and industry income scores?
+International Outlook:
+
+How does the international outlook score vary by region or country?
+Are universities with a high international outlook score also likely to have a high percentage of international students?
